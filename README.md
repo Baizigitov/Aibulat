@@ -42,9 +42,9 @@ Telegram Bot Token: через @BotFather
 OpenAI API Key: в личном кабинете OpenAI
 
 ## 🖥️ Запуск
-bash
-Copy
+```bash
 python bot.py
+```
 ## 🎮 Использование
 Начните диалог командой /start
 
