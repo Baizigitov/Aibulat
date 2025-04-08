@@ -26,14 +26,12 @@ cd telegram-gpt-bot
 Установите зависимости:
 
 ```bash
-Copy
 pip install -r requirements.txt
 ```
 ## 🔧 Настройка
 Создайте файл .env в корне проекта:
 
 env
-Copy
 TELEGRAM_BOT_TOKEN=ваш_telegram_токен
 OPENAI_API_KEY=ваш_openai_ключ
 Получите токены:
