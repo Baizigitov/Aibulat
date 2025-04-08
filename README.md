@@ -39,7 +39,7 @@ OPENAI_API_KEY=ваш_openai_ключ
 
 Telegram Bot Token: через [@BotFather](https://t.me/BotFather)
 
-OpenAI API Key: в личном кабинете OpenAI
+OpenAI API Key: [Получить API-ключ можно в личном кабинете OpenAI](https://platform.openai.com/api-keys)
 
 ## 🖥️ Запуск
 ```bash
