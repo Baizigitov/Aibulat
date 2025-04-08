@@ -86,4 +86,4 @@ Chatbot/
 Настроить rate limiting
 
 ## 📄 Лицензия
-MIT License. Подробнее в файле LICENSE.
+MIT License. Подробнее в файле [MIT License](LICENSE).
