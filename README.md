@@ -21,7 +21,7 @@
 1. Клонируйте репозиторий:
 ```bash
 git clone https://github.com/Baizigitov/Chatbot.git
-cd telegram-gpt-bot
+cd Chatbot
 ```
 2. Установите зависимости:
 
