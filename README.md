@@ -20,7 +20,7 @@
 ## 📦 Установка
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш-username/telegram-gpt-bot.git
+git clone https://github.com/Baizigitov/Chatbot.git
 cd telegram-gpt-bot
 ```
 2. Установите зависимости:
