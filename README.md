@@ -23,18 +23,19 @@
 git clone https://github.com/ваш-username/telegram-gpt-bot.git
 cd telegram-gpt-bot
 ```
-Установите зависимости:
+2. Установите зависимости:
 
 ```bash
 pip install -r requirements.txt
 ```
 ## 🔧 Настройка
-Создайте файл .env в корне проекта:
+1. Создайте файл .env в корне проекта:
 
-env
+```env
 TELEGRAM_BOT_TOKEN=ваш_telegram_токен
 OPENAI_API_KEY=ваш_openai_ключ
-Получите токены:
+```
+2. Получите токены:
 
 Telegram Bot Token: через @BotFather
 
