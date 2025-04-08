@@ -59,8 +59,8 @@ python Chatbot.py
 ```
 ## 📝 Структура проекта
 ```
-telegram-gpt-bot/
-├── bot.py            # Основной код бота
+Chatbot/
+├── Chatbot.py        # Основной код бота
 ├── requirements.txt  # Зависимости
 └── .env.example      # Шаблон файла конфигурации
 ```
