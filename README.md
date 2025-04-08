@@ -22,11 +22,13 @@
 ```bash
 git clone https://github.com/ваш-username/telegram-gpt-bot.git
 cd telegram-gpt-bot
+```
 Установите зависимости:
 
-bash
+```bash
 Copy
 pip install -r requirements.txt
+```
 ## 🔧 Настройка
 Создайте файл .env в корне проекта:
 
